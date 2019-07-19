@@ -3,7 +3,7 @@ Students will find here the materials related to the course lab. Only intended f
 
 ## Contents
 - [Python script for querying eventregistry.org](EventRegistryAPI.ipynb)
-- Demo for the calculation of the Semantic Brand Score ([see this other repository](https://github.com/iandreafc/semanticbrandscore-demo))
+- [Demo for the calculation of the Semantic Brand Score (a different repository)](https://github.com/iandreafc/semanticbrandscore-demo)
 
 ## Contact
 [andreafc.com](https://andreafc.com)
