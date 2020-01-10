@@ -1,7 +1,8 @@
 # Social Network and Big Data Analytics<br/>Course Materials - Prof. Andrea Fronzetti Colladon
 
 ```diff
-! Students will find here the materials related to the course lab. Only intended for those who have already attended the course in the classroom.
+! Students will find here the materials related to the course lab.
+! Only intended for those who have already attended the course in the classroom.
 ```
 
 We live in a world where everything is connected: people, information, places, events, genes in the DNA. A clever way to make sense of these connection patterns is to study them as networks. Social Network Analysis (SNA) refers to widely used methods to study networks, which can be applied, for example, in social and behavioral sciences, in management and innovation management, economics, marketing, biology, psychology or engineering. The focus is on relationships among social entities; examples include communication or opinion formation among members of a group, economic transactions between corporations, or diffusion processes. Online, taking the Web as a mirror of the real world, SNA opens up unprecedented opportunities to read the collective mind, discovering emergent trends and behaviors. The possible applications are so many that they cannot be numbered. 
