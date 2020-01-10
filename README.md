@@ -3,6 +3,7 @@ Students will find here the materials related to the course lab. Only intended f
 
 ## Contents
 - [Demo for the calculation of the Semantic Brand Score (a different repository)](https://github.com/iandreafc/semanticbrandscore-demo)
+- [Demo for the calculation of distinctiveness centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
 - [Python script for querying eventregistry.org](python-eventregistry/EventRegistryAPI.ipynb)
 - [Python script to download tweets and generate social networks](twitter-networks/TwitterNetworks.ipynb)
 
