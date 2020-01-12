@@ -19,7 +19,6 @@ The course is divided into three parts: the first theoretical; the second devote
 - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
 
    #### SNA with Python Networkx
-
    - Graph drawing
    - Centrality metrics
    - Community Detection
