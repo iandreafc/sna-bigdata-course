@@ -11,14 +11,16 @@ Students will learn about the structure and evolution of networks, but other app
 
 The course is divided into three parts: the first theoretical; the second devoted to the analysis of case studies; the third practical, aimed at the application of what has been learned. Students will learn how to use specific software – such as, SBS BI, Condor, Pajek, Gephi, and the Python programming language. 
 
-The acquired knowledge could be used in multiple fields, to solve multidisciplinary research problems.
-
 ## Lab Materials
 ### Python
 - [Demo for the calculation of the Semantic Brand Score (a different repository)](https://github.com/iandreafc/semanticbrandscore-demo)
 - [Demo for the calculation of Distinctiveness Centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
 - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
 - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
+#### SNA with Python Networkx
+- Graph drawing
+- Centrality metrics
+- Community Detection
 
 ### Condor
 - [Condor lab instructions](https://github.com/iandreafc/sna-bigdata-course/blob/master/Condor-English/Condor%20Lab%20Instructions.pdf)
