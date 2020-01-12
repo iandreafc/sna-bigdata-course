@@ -17,7 +17,8 @@ The course is divided into three parts: the first theoretical; the second devote
 - [Demo for the calculation of Distinctiveness Centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
 - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
 - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
-#### SNA with Python Networkx
+
+   #### SNA with Python Networkx
 
    - Graph drawing
    - Centrality metrics
