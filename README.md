@@ -17,16 +17,16 @@ The course is divided into three parts: the first theoretical; the second devote
    - [Demo for the calculation of the Semantic Brand Score (a different repository)](https://github.com/iandreafc/semanticbrandscore-demo)
    - [Demo for the calculation of Distinctiveness Centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
 
-- **Content Fetching**
-   - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
-   - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
-   - [Python script to download emails and generate social networks]()
-
 - **SNA with Python Networkx**
    
    - Graph drawing
    - Centrality metrics
    - Community Detection
+
+- **Content Fetching**
+   - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
+   - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
+   - [ython script to download emails and generate social networks
    
 - **Machine Learning**
    - Catboost + SHAP Explanations
