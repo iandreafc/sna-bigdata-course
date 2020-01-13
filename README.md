@@ -13,15 +13,23 @@ The course is divided into three parts: the first theoretical; the second devote
 
 ## Lab Materials
 ### Python
-- [Demo for the calculation of the Semantic Brand Score (a different repository)](https://github.com/iandreafc/semanticbrandscore-demo)
-- [Demo for the calculation of Distinctiveness Centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
-- [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
-- [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
+- **Innovative Measures**
+   - [Demo for the calculation of the Semantic Brand Score (a different repository)](https://github.com/iandreafc/semanticbrandscore-demo)
+   - [Demo for the calculation of Distinctiveness Centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
+
+- **Content Fetching**
+   - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
+   - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
+   - [Python script to download emails and generate social networks]()
+
 - **SNA with Python Networkx**
    
    - Graph drawing
    - Centrality metrics
    - Community Detection
+   
+- **Machine Learning**
+   - Catboost + SHAP Explanations
 
 ### Condor
 - [Condor lab instructions](https://github.com/iandreafc/sna-bigdata-course/blob/master/Condor-English/Condor%20Lab%20Instructions.pdf)
