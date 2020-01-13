@@ -29,7 +29,9 @@ The course is divided into three parts: the first theoretical; the second devote
    - Python script to download emails and generate social networks
    
 - **Machine Learning**
-   - Catboost + SHAP Explanations
+   - Catboost Classification
+   - Catboost Regression 
+   - SHAP Explanations
 
 ### Condor
 - [Condor lab instructions](https://github.com/iandreafc/sna-bigdata-course/blob/master/Condor-English/Condor%20Lab%20Instructions.pdf)
