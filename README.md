@@ -29,7 +29,7 @@ The course is divided into three parts: the first theoretical; the second devote
    - Python script to download emails and generate social networks
    
 - **Machine Learning**
-   - Catboost Classification
+   - [Catboost Classification](Catboost/CatBoostClassificationTutorial.ipynb)
    - Catboost Regression 
    - SHAP Explanations
 
