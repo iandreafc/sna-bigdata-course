@@ -30,7 +30,7 @@ The course is divided into three parts: the first theoretical; the second devote
    
 - **Machine Learning**
    - [Catboost Classification](Catboost/CatBoostClassificationTutorial.ipynb)
-   - Catboost Regression 
+   - [Catboost Regression ](Catboost/CatBoostRegressionTutorial.ipynb
    - SHAP Explanations
 
 ### Condor
