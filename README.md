@@ -30,8 +30,8 @@ The course is divided into three parts: the first theoretical; the second devote
    
 - **Machine Learning**
    - [Catboost Classification](Catboost/CatBoostClassificationTutorial.ipynb)
-   - [Catboost Regression ](Catboost/CatBoostRegressionTutorial.ipynb)
-   - SHAP Explanations
+   - [Catboost Regression](Catboost/CatBoostRegressionTutorial.ipynb)
+   - [SHAP Explanations](Shap/ShapTutorial.ipynb)
 
 ### Condor
 - [Condor lab instructions](https://github.com/iandreafc/sna-bigdata-course/blob/master/Condor-English/Condor%20Lab%20Instructions.pdf)
