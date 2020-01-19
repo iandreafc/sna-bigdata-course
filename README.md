@@ -18,10 +18,9 @@ The course is divided into three parts: the first theoretical; the second devote
    - [Demo for the calculation of Distinctiveness Centrality (a different repository)](https://github.com/iandreafc/distinctiveness-centrality/blob/master/DistinctivenessCentralityDemo.ipynb)
 
 - **SNA with Python Networkx**
-   
-   - Graph drawing
-   - Centrality metrics
-   - Community Detection
+   - [Graph creation and drawing](Networkx/GraphCreationDrawing.ipynb)
+   - [Centrality metrics](Networkx/CentralityMetrics.ipynb)
+   - [Community detection](Networkx/CommunityDetection.ipynb)
 
 - **Content Fetching**
    - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
