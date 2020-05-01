@@ -35,8 +35,8 @@ The course is divided into three parts: the first theoretical; the second devote
 - [Condor lab instructions](https://github.com/iandreafc/sna-bigdata-course/blob/master/Condor-English/Condor%20Lab%20Instructions.pdf)
 
 ### Pajek and Gephi
-- [Pajek and Gephi lab instructions (italian)](https://github.com/iandreafc/sna-bigdata-course/blob/master/PajekGephi-italian/Istruzioni.pdf)
-- [Pajek and Gephi lab instructions (english)](https://github.com/iandreafc/sna-bigdata-course/blob/master/PajekGephi-English/Instructions.pdf)
+- [Pajek and Gephi lab instructions (italian)](https://github.com/iandreafc/sna-bigdata-course/blob/master/PajekGephi-Italian/Istruzioni.pdf)
+- [Pajek and Gephi lab instructions (english)](https://github.com/iandreafc/sna-bigdata-course/blob/master/PajekGephi-english/Instructions.pdf)
 
 
 ## Contact
