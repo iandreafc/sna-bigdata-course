@@ -24,7 +24,6 @@ The course is divided into three parts: the first theoretical; the second devote
 
 - **Content Fetching**
    - [Python script for querying eventregistry.org](Python-eventregistry/EventRegistryAPI.ipynb)
-   - [Python script to download tweets and generate social networks](Twitter-networks/TwitterNetworks.ipynb)
    
 - **Machine Learning**
    - [Catboost Classification](Catboost/CatBoostClassificationTutorial.ipynb)
